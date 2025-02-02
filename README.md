@@ -1,4 +1,4 @@
-### **Automation in Data Entry**  
+# **Automation in Data Entry**  
 A Python application that automates data entry by storing user input in both an **Excel file** and a **SQLite database**. The stored data can later be visualized in **Power BI**.
 
 ## **Features**
