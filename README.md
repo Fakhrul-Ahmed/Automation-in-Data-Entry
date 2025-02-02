@@ -22,7 +22,7 @@ pip install openpyxl
 ## **How to Use**
 1. Run the Python script:  
    ```bash
-   python script_name.py
+   Python-Excel-Sql.py
    ```
 2. Enter user details in the GUI.
 3. Click **"Enter data"** to store the information.  
